@@ -1,9 +1,10 @@
 {
     "country":  "us",
     "AppSourceCopMandatoryAffixes":  [
-        "<affix>"
+        "KXA"
     ],
     "appFolders":  [
+        "BaseApp"
     ],
     "testFolders":  [
     ],
