@@ -9,5 +9,6 @@
     "testFolders":  [
     ],
     "bcptTestFolders":  [
-    ]
+    ],
+    "RepoVersion":  "1.9"
 }
